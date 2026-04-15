@@ -1,6 +1,5 @@
 import requests
 import sqlite3
-import json
 from datetime import date
 
 # --- Setup Database ---
@@ -33,7 +32,8 @@ cursor.execute('''
         card_set_id TEXT,
         market_price REAL,
         inventory_price REAL,
-        date_scraped TEXT
+        date_scraped TEXT,
+        date_pulled TEXT
     )
 ''')
 
@@ -45,9 +45,10 @@ response = requests.get('https://optcgapi.com/api/allSetCards/')
 cards = response.json()
 print(f"Got {len(cards)} cards")
 
+today = str(date.today())
+
 # --- Insert Data ---
 for card in cards:
-    # Insert card info (ignore if already exists)
     cursor.execute('''
         INSERT OR IGNORE INTO cards VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)
     ''', (
@@ -67,15 +68,15 @@ for card in cards:
         card.get('card_image')
     ))
 
-    # Always insert price (daily snapshot)
     cursor.execute('''
-        INSERT INTO prices (card_set_id, market_price, inventory_price, date_scraped)
-        VALUES (?,?,?,?)
+        INSERT INTO prices (card_set_id, market_price, inventory_price, date_scraped, date_pulled)
+        VALUES (?,?,?,?,?)
     ''', (
         card['card_set_id'],
         card.get('market_price'),
         card.get('inventory_price'),
-        card.get('date_scraped', str(date.today()))
+        card.get('date_scraped', today),
+        today
     ))
 
 conn.commit()
