@@ -1,0 +1,361 @@
+date,set_id,set_name,product,price_usd,msrp,set_type
+2023-12-01,OP01,Romance Dawn,Booster Box,560.02,72.0,main
+2023-12-01,OP02,Paramount War,Booster Box,126.86,72.0,main
+2023-12-01,OP03,Pillars of Strength,Booster Box,70.7,100.0,main
+2023-12-01,OP04,Kingdoms of Intrigue,Booster Box,158.36,100.0,main
+2023-12-01,OP05,Awakening of the New Era,Booster Box,271.96,100.0,main
+2024-01-01,OP01,Romance Dawn,Booster Box,560.02,72.0,main
+2024-01-01,OP02,Paramount War,Booster Box,129.4,72.0,main
+2024-01-01,OP03,Pillars of Strength,Booster Box,70.0,100.0,main
+2024-01-01,OP04,Kingdoms of Intrigue,Booster Box,155.25,100.0,main
+2024-01-01,OP05,Awakening of the New Era,Booster Box,277.4,100.0,main
+2024-02-01,OP01,Romance Dawn,Blue Bottom Booster Box,1083.54,72.0,main
+2024-02-01,OP01,Romance Dawn,Booster Box,471.64,72.0,main
+2024-02-01,OP02,Paramount War,Booster Box,124.84,72.0,main
+2024-02-01,OP03,Pillars of Strength,Booster Box,215.0,100.0,main
+2024-02-01,OP04,Kingdoms of Intrigue,Booster Box,154.01,100.0,main
+2024-02-01,OP05,Awakening of the New Era,Booster Box,259.6,100.0,main
+2024-03-01,OP01,Romance Dawn,Blue Bottom Booster Box,1025.0,72.0,main
+2024-03-01,OP01,Romance Dawn,Booster Box,464.7,72.0,main
+2024-03-01,OP02,Paramount War,Booster Box,134.31,72.0,main
+2024-03-01,OP03,Pillars of Strength,Booster Box,219.31,100.0,main
+2024-03-01,OP04,Kingdoms of Intrigue,Booster Box,170.0,100.0,main
+2024-03-01,OP05,Awakening of the New Era,Booster Box,278.61,100.0,main
+2024-04-01,OP01,Romance Dawn,Blue Bottom Booster Box,1126.49,72.0,main
+2024-04-01,OP01,Romance Dawn,Booster Box,475.0,72.0,main
+2024-04-01,OP02,Paramount War,Booster Box,265.72,72.0,main
+2024-04-01,OP03,Pillars of Strength,Booster Box,196.53,100.0,main
+2024-04-01,OP04,Kingdoms of Intrigue,Booster Box,186.37,100.0,main
+2024-04-01,OP05,Awakening of the New Era,Booster Box,246.12,100.0,main
+2024-04-01,OP06,Wings of the Captain,Booster Box,168.58,100.0,main
+2024-05-01,EB01,Extra Booster Memorial Collection,Sealed Booster Box,122.0,70.0,extra
+2024-05-01,OP01,Romance Dawn,Blue Bottom Booster Box,1062.39,72.0,main
+2024-05-01,OP01,Romance Dawn,Booster Box,204.02,72.0,main
+2024-05-01,OP02,Paramount War,Booster Box,260.47,72.0,main
+2024-05-01,OP03,Pillars of Strength,Booster Box,227.4,100.0,main
+2024-05-01,OP04,Kingdoms of Intrigue,Booster Box,166.36,100.0,main
+2024-05-01,OP05,Awakening of the New Era,Booster Box,151.5,100.0,main
+2024-05-01,OP06,Wings of the Captain,Booster Box,147.04,100.0,main
+2024-06-01,EB01,Extra Booster Memorial Collection,Sealed Booster Box,126.67,70.0,extra
+2024-06-01,OP01,Romance Dawn,Blue Bottom Booster Box,991.91,72.0,main
+2024-06-01,OP01,Romance Dawn,Booster Box,216.27,72.0,main
+2024-06-01,OP02,Paramount War,Booster Box,233.13,72.0,main
+2024-06-01,OP03,Pillars of Strength,Booster Box,223.52,100.0,main
+2024-06-01,OP04,Kingdoms of Intrigue,Booster Box,179.46,100.0,main
+2024-06-01,OP05,Awakening of the New Era,Booster Box,189.03,100.0,main
+2024-06-01,OP06,Wings of the Captain,Booster Box,122.51,100.0,main
+2024-07-01,EB01,Extra Booster Memorial Collection,Sealed Booster Box,126.67,70.0,extra
+2024-07-01,OP01,Romance Dawn,Blue Bottom Booster Box,908.81,72.0,main
+2024-07-01,OP01,Romance Dawn,Booster Box,249.16,72.0,main
+2024-07-01,OP02,Paramount War,Booster Box,160.61,72.0,main
+2024-07-01,OP03,Pillars of Strength,Booster Box,203.23,100.0,main
+2024-07-01,OP04,Kingdoms of Intrigue,Booster Box,115.83,100.0,main
+2024-07-01,OP05,Awakening of the New Era,Booster Box,121.91,100.0,main
+2024-07-01,OP06,Wings of the Captain,Booster Box,60.0,100.0,main
+2024-07-01,OP07,500 Years in the Future,Booster Box,116.37,100.0,main
+2024-08-01,EB01,Extra Booster Memorial Collection,Sealed Booster Box,110.0,70.0,extra
+2024-08-01,OP01,Romance Dawn,Blue Bottom Booster Box,884.84,72.0,main
+2024-08-01,OP01,Romance Dawn,Booster Box,219.29,72.0,main
+2024-08-01,OP02,Paramount War,Booster Box,168.96,72.0,main
+2024-08-01,OP03,Pillars of Strength,Booster Box,190.61,100.0,main
+2024-08-01,OP04,Kingdoms of Intrigue,Booster Box,143.04,100.0,main
+2024-08-01,OP05,Awakening of the New Era,Booster Box,162.18,100.0,main
+2024-08-01,OP06,Wings of the Captain,Booster Box,92.71,100.0,main
+2024-08-01,OP07,500 Years in the Future,Booster Box,95.7,100.0,main
+2024-09-01,EB01,Extra Booster Memorial Collection,Sealed Booster Box,109.67,70.0,extra
+2024-09-01,OP01,Romance Dawn,Blue Bottom Booster Box,884.96,72.0,main
+2024-09-01,OP01,Romance Dawn,Booster Box,206.25,72.0,main
+2024-09-01,OP02,Paramount War,Booster Box,152.69,72.0,main
+2024-09-01,OP03,Pillars of Strength,Booster Box,188.71,100.0,main
+2024-09-01,OP04,Kingdoms of Intrigue,Booster Box,149.85,100.0,main
+2024-09-01,OP05,Awakening of the New Era,Booster Box,161.75,100.0,main
+2024-09-01,OP06,Wings of the Captain,Booster Box,98.48,100.0,main
+2024-09-01,OP07,500 Years in the Future,Booster Box,95.32,100.0,main
+2024-09-01,OP08,Two Legends,Booster Box,88.05,100.0,main
+2024-10-01,EB01,Extra Booster Memorial Collection,Sealed Booster Box,110.71,70.0,extra
+2024-10-01,OP01,Romance Dawn,Blue Bottom Booster Box,886.26,72.0,main
+2024-10-01,OP01,Romance Dawn,Booster Box,219.01,72.0,main
+2024-10-01,OP02,Paramount War,Booster Box,168.96,72.0,main
+2024-10-01,OP03,Pillars of Strength,Booster Box,169.73,100.0,main
+2024-10-01,OP04,Kingdoms of Intrigue,Booster Box,155.43,100.0,main
+2024-10-01,OP05,Awakening of the New Era,Booster Box,169.97,100.0,main
+2024-10-01,OP06,Wings of the Captain,Booster Box,102.77,100.0,main
+2024-10-01,OP07,500 Years in the Future,Booster Box,81.07,100.0,main
+2024-10-01,OP08,Two Legends,Booster Box,79.26,100.0,main
+2024-11-01,EB01,Extra Booster Memorial Collection,Sealed Booster Box,159.05,70.0,extra
+2024-11-01,OP01,Romance Dawn,Blue Bottom Booster Box,934.84,72.0,main
+2024-11-01,OP01,Romance Dawn,Booster Box,207.5,72.0,main
+2024-11-01,OP02,Paramount War,Booster Box,150.0,72.0,main
+2024-11-01,OP03,Pillars of Strength,Booster Box,152.26,100.0,main
+2024-11-01,OP04,Kingdoms of Intrigue,Booster Box,148.0,100.0,main
+2024-11-01,OP05,Awakening of the New Era,Booster Box,169.52,100.0,main
+2024-11-01,OP06,Wings of the Captain,Booster Box,120.0,100.0,main
+2024-11-01,OP07,500 Years in the Future,Booster Box,91.83,100.0,main
+2024-11-01,OP08,Two Legends,Booster Box,72.5,100.0,main
+2024-11-01,PRB01,Premium Booster (Card the Best),Premium Booster Display,115.29,120.0,premium
+2024-12-01,EB01,Extra Booster Memorial Collection,Sealed Booster Box,178.35,70.0,extra
+2024-12-01,OP01,Romance Dawn,Blue Bottom Booster Box,884.88,72.0,main
+2024-12-01,OP01,Romance Dawn,Booster Box,250.0,72.0,main
+2024-12-01,OP02,Paramount War,Booster Box,142.5,72.0,main
+2024-12-01,OP03,Pillars of Strength,Booster Box,137.73,100.0,main
+2024-12-01,OP04,Kingdoms of Intrigue,Booster Box,148.99,100.0,main
+2024-12-01,OP05,Awakening of the New Era,Booster Box,170.0,100.0,main
+2024-12-01,OP06,Wings of the Captain,Booster Box,121.75,100.0,main
+2024-12-01,OP07,500 Years in the Future,Booster Box,102.63,100.0,main
+2024-12-01,OP08,Two Legends,Booster Box,79.22,100.0,main
+2024-12-01,OP09,Emperors in the New World,Booster Box,111.09,120.0,main
+2024-12-01,PRB01,Premium Booster (Card the Best),Premium Booster Display,145.0,120.0,premium
+2025-01-01,EB01,Extra Booster Memorial Collection,Sealed Booster Box,182.71,70.0,extra
+2025-01-01,OP01,Romance Dawn,Blue Bottom Booster Box,988.91,72.0,main
+2025-01-01,OP01,Romance Dawn,Booster Box,309.8,72.0,main
+2025-01-01,OP02,Paramount War,Booster Box,159.49,72.0,main
+2025-01-01,OP03,Pillars of Strength,Booster Box,153.77,100.0,main
+2025-01-01,OP04,Kingdoms of Intrigue,Booster Box,157.0,100.0,main
+2025-01-01,OP05,Awakening of the New Era,Booster Box,180.95,100.0,main
+2025-01-01,OP06,Wings of the Captain,Booster Box,112.5,100.0,main
+2025-01-01,OP07,500 Years in the Future,Booster Box,111.2,100.0,main
+2025-01-01,OP08,Two Legends,Booster Box,82.41,100.0,main
+2025-01-01,OP09,Emperors in the New World,Booster Box,122.25,120.0,main
+2025-01-01,PRB01,Premium Booster (Card the Best),Premium Booster Display,145.0,120.0,premium
+2025-02-01,EB01,Extra Booster Memorial Collection,Sealed Booster Box,197.15,70.0,extra
+2025-02-01,OP01,Romance Dawn,Blue Bottom Booster Box,1015.06,72.0,main
+2025-02-01,OP01,Romance Dawn,Booster Box,380.0,72.0,main
+2025-02-01,OP02,Paramount War,Booster Box,158.5,72.0,main
+2025-02-01,OP03,Pillars of Strength,Booster Box,149.6,100.0,main
+2025-02-01,OP04,Kingdoms of Intrigue,Booster Box,155.04,100.0,main
+2025-02-01,OP05,Awakening of the New Era,Booster Box,172.43,100.0,main
+2025-02-01,OP06,Wings of the Captain,Booster Box,108.84,100.0,main
+2025-02-01,OP07,500 Years in the Future,Booster Box,116.53,100.0,main
+2025-02-01,OP08,Two Legends,Booster Box,89.99,100.0,main
+2025-02-01,OP09,Emperors in the New World,Booster Box,137.73,120.0,main
+2025-02-01,PRB01,Premium Booster (Card the Best),Premium Booster Display,139.42,120.0,premium
+2025-03-01,EB01,Extra Booster Memorial Collection,Sealed Booster Box,203.78,70.0,extra
+2025-03-01,OP01,Romance Dawn,Blue Bottom Booster Box,992.6,72.0,main
+2025-03-01,OP01,Romance Dawn,Booster Box,384.94,72.0,main
+2025-03-01,OP02,Paramount War,Booster Box,169.77,72.0,main
+2025-03-01,OP03,Pillars of Strength,Booster Box,166.87,100.0,main
+2025-03-01,OP04,Kingdoms of Intrigue,Booster Box,156.69,100.0,main
+2025-03-01,OP05,Awakening of the New Era,Booster Box,179.91,100.0,main
+2025-03-01,OP06,Wings of the Captain,Booster Box,116.13,100.0,main
+2025-03-01,OP07,500 Years in the Future,Booster Box,114.97,100.0,main
+2025-03-01,OP08,Two Legends,Booster Box,94.72,100.0,main
+2025-03-01,OP09,Emperors in the New World,Booster Box,147.0,120.0,main
+2025-03-01,OP10,Royal Blood,Booster Box,121.24,120.0,main
+2025-03-01,PRB01,Premium Booster (Card the Best),Premium Booster Display,134.89,120.0,premium
+2025-04-01,EB01,Extra Booster Memorial Collection,Sealed Booster Box,225.54,70.0,extra
+2025-04-01,OP01,Romance Dawn,Blue Bottom Booster Box,1283.21,72.0,main
+2025-04-01,OP01,Romance Dawn,Booster Box,442.3,72.0,main
+2025-04-01,OP02,Paramount War,Booster Box,197.43,72.0,main
+2025-04-01,OP03,Pillars of Strength,Booster Box,187.48,100.0,main
+2025-04-01,OP04,Kingdoms of Intrigue,Booster Box,167.45,100.0,main
+2025-04-01,OP05,Awakening of the New Era,Booster Box,225.01,100.0,main
+2025-04-01,OP06,Wings of the Captain,Booster Box,130.04,100.0,main
+2025-04-01,OP07,500 Years in the Future,Booster Box,119.99,100.0,main
+2025-04-01,OP08,Two Legends,Booster Box,100.0,100.0,main
+2025-04-01,OP09,Emperors in the New World,Booster Box,179.99,120.0,main
+2025-04-01,OP10,Royal Blood,Booster Box,103.97,120.0,main
+2025-04-01,PRB01,Premium Booster (Card the Best),Premium Booster Display,133.86,120.0,premium
+2025-05-01,EB01,Extra Booster Memorial Collection,Sealed Booster Box,225.54,70.0,extra
+2025-05-01,OP01,Romance Dawn,Blue Bottom Booster Box,1318.34,72.0,main
+2025-05-01,OP01,Romance Dawn,Booster Box,437.5,72.0,main
+2025-05-01,OP02,Paramount War,Booster Box,209.64,72.0,main
+2025-05-01,OP03,Pillars of Strength,Booster Box,191.0,100.0,main
+2025-05-01,OP04,Kingdoms of Intrigue,Booster Box,199.07,100.0,main
+2025-05-01,OP05,Awakening of the New Era,Booster Box,263.6,100.0,main
+2025-05-01,OP06,Wings of the Captain,Booster Box,149.49,100.0,main
+2025-05-01,OP07,500 Years in the Future,Booster Box,128.97,100.0,main
+2025-05-01,OP08,Two Legends,Booster Box,95.73,100.0,main
+2025-05-01,OP09,Emperors in the New World,Booster Box,187.5,120.0,main
+2025-05-01,OP10,Royal Blood,Booster Box,99.68,120.0,main
+2025-05-01,PRB01,Premium Booster (Card the Best),Premium Booster Display,144.7,120.0,premium
+2025-06-01,EB01,Extra Booster Memorial Collection,Sealed Booster Box,249.78,70.0,extra
+2025-06-01,EB02,Extra Booster Anime 25th Collection,Booster Box,178.8,70.0,extra
+2025-06-01,OP01,Romance Dawn,Blue Bottom Booster Box,1376.12,72.0,main
+2025-06-01,OP01,Romance Dawn,Booster Box,450.0,72.0,main
+2025-06-01,OP02,Paramount War,Booster Box,197.73,72.0,main
+2025-06-01,OP03,Pillars of Strength,Booster Box,218.53,100.0,main
+2025-06-01,OP04,Kingdoms of Intrigue,Booster Box,196.0,100.0,main
+2025-06-01,OP05,Awakening of the New Era,Booster Box,230.0,100.0,main
+2025-06-01,OP06,Wings of the Captain,Booster Box,140.0,100.0,main
+2025-06-01,OP07,500 Years in the Future,Booster Box,113.16,100.0,main
+2025-06-01,OP08,Two Legends,Booster Box,106.0,100.0,main
+2025-06-01,OP09,Emperors in the New World,Booster Box,172.89,120.0,main
+2025-06-01,OP10,Royal Blood,Booster Box,96.0,120.0,main
+2025-06-01,OP11,Fist of Divine Speed,Booster Box,137.0,120.0,main
+2025-06-01,PRB01,Premium Booster (Card the Best),Premium Booster Display,144.7,120.0,premium
+2025-07-01,EB01,Extra Booster Memorial Collection,Sealed Booster Box,297.18,70.0,extra
+2025-07-01,EB02,Extra Booster Anime 25th Collection,Booster Box,177.33,70.0,extra
+2025-07-01,OP01,Romance Dawn,Blue Bottom Booster Box,1475.0,72.0,main
+2025-07-01,OP01,Romance Dawn,Booster Box,484.93,72.0,main
+2025-07-01,OP02,Paramount War,Booster Box,191.26,72.0,main
+2025-07-01,OP03,Pillars of Strength,Booster Box,216.08,100.0,main
+2025-07-01,OP04,Kingdoms of Intrigue,Booster Box,188.17,100.0,main
+2025-07-01,OP05,Awakening of the New Era,Booster Box,217.78,100.0,main
+2025-07-01,OP06,Wings of the Captain,Booster Box,146.65,100.0,main
+2025-07-01,OP07,500 Years in the Future,Booster Box,125.18,100.0,main
+2025-07-01,OP08,Two Legends,Booster Box,105.03,100.0,main
+2025-07-01,OP09,Emperors in the New World,Booster Box,183.02,120.0,main
+2025-07-01,OP10,Royal Blood,Booster Box,98.72,120.0,main
+2025-07-01,OP11,Fist of Divine Speed,Booster Box,127.5,120.0,main
+2025-07-01,PRB01,Premium Booster (Card the Best),Premium Booster Display,146.7,120.0,premium
+2025-08-01,EB01,Extra Booster Memorial Collection,Sealed Booster Box,295.81,70.0,extra
+2025-08-01,EB02,Extra Booster Anime 25th Collection,Booster Box,163.12,70.0,extra
+2025-08-01,OP01,Romance Dawn,Blue Bottom Booster Box,2016.59,72.0,main
+2025-08-01,OP01,Romance Dawn,Booster Box,548.24,72.0,main
+2025-08-01,OP02,Paramount War,Booster Box,224.71,72.0,main
+2025-08-01,OP03,Pillars of Strength,Booster Box,224.67,100.0,main
+2025-08-01,OP04,Kingdoms of Intrigue,Booster Box,193.98,100.0,main
+2025-08-01,OP05,Awakening of the New Era,Booster Box,236.87,100.0,main
+2025-08-01,OP06,Wings of the Captain,Booster Box,150.0,100.0,main
+2025-08-01,OP07,500 Years in the Future,Booster Box,124.11,100.0,main
+2025-08-01,OP08,Two Legends,Booster Box,110.31,100.0,main
+2025-08-01,OP09,Emperors in the New World,Booster Box,186.59,120.0,main
+2025-08-01,OP10,Royal Blood,Booster Box,100.52,120.0,main
+2025-08-01,OP11,Fist of Divine Speed,Booster Box,135.5,120.0,main
+2025-08-01,OP12,Legacy of the Master,Booster Box,124.13,120.0,main
+2025-08-01,PRB01,Premium Booster (Card the Best),Premium Booster Display,146.68,120.0,premium
+2025-09-01,EB01,Extra Booster Memorial Collection,Sealed Booster Box,295.48,70.0,extra
+2025-09-01,EB02,Extra Booster Anime 25th Collection,Booster Box,150.98,70.0,extra
+2025-09-01,OP01,Romance Dawn,Blue Bottom Booster Box,2636.04,72.0,main
+2025-09-01,OP01,Romance Dawn,Booster Box,592.5,72.0,main
+2025-09-01,OP02,Paramount War,Booster Box,214.38,72.0,main
+2025-09-01,OP03,Pillars of Strength,Booster Box,249.7,100.0,main
+2025-09-01,OP04,Kingdoms of Intrigue,Booster Box,195.0,100.0,main
+2025-09-01,OP05,Awakening of the New Era,Booster Box,269.25,100.0,main
+2025-09-01,OP06,Wings of the Captain,Booster Box,159.3,100.0,main
+2025-09-01,OP07,500 Years in the Future,Booster Box,134.11,100.0,main
+2025-09-01,OP08,Two Legends,Booster Box,104.25,100.0,main
+2025-09-01,OP09,Emperors in the New World,Booster Box,201.54,120.0,main
+2025-09-01,OP10,Royal Blood,Booster Box,100.49,120.0,main
+2025-09-01,OP11,Fist of Divine Speed,Booster Box,142.89,120.0,main
+2025-09-01,OP12,Legacy of the Master,Booster Box,119.99,120.0,main
+2025-09-01,PRB01,Premium Booster (Card the Best),Premium Booster Display,145.44,120.0,premium
+2025-10-01,EB01,Extra Booster Memorial Collection,Sealed Booster Box,296.78,70.0,extra
+2025-10-01,EB02,Extra Booster Anime 25th Collection,Booster Box,177.42,70.0,extra
+2025-10-01,OP01,Romance Dawn,Blue Bottom Booster Box,2866.21,72.0,main
+2025-10-01,OP01,Romance Dawn,Booster Box,603.69,72.0,main
+2025-10-01,OP02,Paramount War,Booster Box,236.26,72.0,main
+2025-10-01,OP03,Pillars of Strength,Booster Box,302.86,100.0,main
+2025-10-01,OP04,Kingdoms of Intrigue,Booster Box,219.87,100.0,main
+2025-10-01,OP05,Awakening of the New Era,Booster Box,390.0,100.0,main
+2025-10-01,OP06,Wings of the Captain,Booster Box,158.23,100.0,main
+2025-10-01,OP07,500 Years in the Future,Booster Box,137.72,100.0,main
+2025-10-01,OP08,Two Legends,Booster Box,114.98,100.0,main
+2025-10-01,OP09,Emperors in the New World,Booster Box,220.0,120.0,main
+2025-10-01,OP10,Royal Blood,Booster Box,101.16,120.0,main
+2025-10-01,OP11,Fist of Divine Speed,Booster Box,153.89,120.0,main
+2025-10-01,OP12,Legacy of the Master,Booster Box,108.6,120.0,main
+2025-10-01,OP13,Carrying On His Will,Booster Box,150.0,120.0,main
+2025-10-01,PRB01,Premium Booster (Card the Best),Premium Booster Display,215.75,120.0,premium
+2025-10-01,PRB02,Premium Booster 2,Booster Box,168.5,120.0,premium
+2025-11-01,EB01,Extra Booster Memorial Collection,Sealed Booster Box,507.95,70.0,extra
+2025-11-01,EB02,Extra Booster Anime 25th Collection,Booster Box,228.75,70.0,extra
+2025-11-01,OP01,Romance Dawn,Blue Bottom Booster Box,4037.52,72.0,main
+2025-11-01,OP01,Romance Dawn,Booster Box,1314.1,72.0,main
+2025-11-01,OP02,Paramount War,Booster Box,267.47,72.0,main
+2025-11-01,OP03,Pillars of Strength,Booster Box,329.99,100.0,main
+2025-11-01,OP04,Kingdoms of Intrigue,Booster Box,228.45,100.0,main
+2025-11-01,OP05,Awakening of the New Era,Booster Box,509.99,100.0,main
+2025-11-01,OP06,Wings of the Captain,Booster Box,175.76,100.0,main
+2025-11-01,OP07,500 Years in the Future,Booster Box,139.99,100.0,main
+2025-11-01,OP08,Two Legends,Booster Box,114.99,100.0,main
+2025-11-01,OP09,Emperors in the New World,Booster Box,239.61,120.0,main
+2025-11-01,OP10,Royal Blood,Booster Box,106.25,120.0,main
+2025-11-01,OP11,Fist of Divine Speed,Booster Box,167.4,120.0,main
+2025-11-01,OP12,Legacy of the Master,Booster Box,105.0,120.0,main
+2025-11-01,OP13,Carrying On His Will,Booster Box,188.43,120.0,main
+2025-11-01,PRB01,Premium Booster (Card the Best),Premium Booster Display,428.63,120.0,premium
+2025-11-01,PRB02,Premium Booster 2,Booster Box,167.45,120.0,premium
+2025-12-01,EB01,Extra Booster Memorial Collection,Sealed Booster Box,854.94,70.0,extra
+2025-12-01,EB02,Extra Booster Anime 25th Collection,Booster Box,500.0,70.0,extra
+2025-12-01,OP01,Romance Dawn,Blue Bottom Booster Box,4571.0,72.0,main
+2025-12-01,OP01,Romance Dawn,Booster Box,1529.17,72.0,main
+2025-12-01,OP02,Paramount War,Booster Box,400.0,72.0,main
+2025-12-01,OP03,Pillars of Strength,Booster Box,403.99,100.0,main
+2025-12-01,OP04,Kingdoms of Intrigue,Booster Box,399.99,100.0,main
+2025-12-01,OP05,Awakening of the New Era,Booster Box,776.0,100.0,main
+2025-12-01,OP06,Wings of the Captain,Booster Box,264.0,100.0,main
+2025-12-01,OP07,500 Years in the Future,Booster Box,197.69,100.0,main
+2025-12-01,OP08,Two Legends,Booster Box,154.79,100.0,main
+2025-12-01,OP09,Emperors in the New World,Booster Box,372.58,120.0,main
+2025-12-01,OP10,Royal Blood,Booster Box,164.68,120.0,main
+2025-12-01,OP11,Fist of Divine Speed,Booster Box,273.52,120.0,main
+2025-12-01,OP12,Legacy of the Master,Booster Box,162.06,120.0,main
+2025-12-01,OP13,Carrying On His Will,Booster Box,348.87,120.0,main
+2025-12-01,PRB01,Premium Booster (Card the Best),Premium Booster Display,512.5,120.0,premium
+2025-12-01,PRB02,Premium Booster 2,Booster Box,216.9,120.0,premium
+2026-01-01,EB01,Extra Booster Memorial Collection,Sealed Booster Box,826.83,70.0,extra
+2026-01-01,EB02,Extra Booster Anime 25th Collection,Booster Box,569.99,70.0,extra
+2026-01-01,OP01,Romance Dawn,Blue Bottom Booster Box,6500.0,72.0,main
+2026-01-01,OP01,Romance Dawn,Booster Box,1860.83,72.0,main
+2026-01-01,OP02,Paramount War,Booster Box,605.47,72.0,main
+2026-01-01,OP03,Pillars of Strength,Booster Box,634.36,100.0,main
+2026-01-01,OP04,Kingdoms of Intrigue,Booster Box,534.75,100.0,main
+2026-01-01,OP05,Awakening of the New Era,Booster Box,1069.51,100.0,main
+2026-01-01,OP06,Wings of the Captain,Booster Box,276.25,100.0,main
+2026-01-01,OP07,500 Years in the Future,Booster Box,234.19,100.0,main
+2026-01-01,OP08,Two Legends,Booster Box,219.99,100.0,main
+2026-01-01,OP09,Emperors in the New World,Booster Box,625.0,120.0,main
+2026-01-01,OP10,Royal Blood,Booster Box,195.62,120.0,main
+2026-01-01,OP11,Fist of Divine Speed,Booster Box,422.5,120.0,main
+2026-01-01,OP12,Legacy of the Master,Booster Box,225.25,120.0,main
+2026-01-01,OP13,Carrying On His Will,Booster Box,705.99,120.0,main
+2026-01-01,PRB01,Premium Booster (Card the Best),Premium Booster Display,848.0,120.0,premium
+2026-01-01,PRB02,Premium Booster 2,Booster Box,340.85,120.0,premium
+2026-02-01,EB01,Extra Booster Memorial Collection,Sealed Booster Box,827.94,70.0,extra
+2026-02-01,EB02,Extra Booster Anime 25th Collection,Booster Box,508.99,70.0,extra
+2026-02-01,EB03,Extra Booster Heroines Edition,Booster Box,350.98,70.0,extra
+2026-02-01,OP01,Romance Dawn,Blue Bottom Booster Box,5650.0,72.0,main
+2026-02-01,OP01,Romance Dawn,Booster Box,1679.16,72.0,main
+2026-02-01,OP02,Paramount War,Booster Box,497.5,72.0,main
+2026-02-01,OP03,Pillars of Strength,Booster Box,637.24,100.0,main
+2026-02-01,OP04,Kingdoms of Intrigue,Booster Box,499.64,100.0,main
+2026-02-01,OP05,Awakening of the New Era,Booster Box,987.0,100.0,main
+2026-02-01,OP06,Wings of the Captain,Booster Box,242.69,100.0,main
+2026-02-01,OP07,500 Years in the Future,Booster Box,244.69,100.0,main
+2026-02-01,OP08,Two Legends,Booster Box,219.13,100.0,main
+2026-02-01,OP09,Emperors in the New World,Booster Box,486.03,120.0,main
+2026-02-01,OP10,Royal Blood,Booster Box,207.0,120.0,main
+2026-02-01,OP11,Fist of Divine Speed,Booster Box,399.61,120.0,main
+2026-02-01,OP12,Legacy of the Master,Booster Box,202.27,120.0,main
+2026-02-01,OP13,Carrying On His Will,Booster Box,471.4,120.0,main
+2026-02-01,PRB01,Premium Booster (Card the Best),Premium Booster Display,897.32,120.0,premium
+2026-02-01,PRB02,Premium Booster 2,Booster Box,336.31,120.0,premium
+2026-03-01,EB01,Extra Booster Memorial Collection,Sealed Booster Box,835.85,70.0,extra
+2026-03-01,EB02,Extra Booster Anime 25th Collection,Booster Box,499.89,70.0,extra
+2026-03-01,EB03,Extra Booster Heroines Edition,Booster Box,329.84,70.0,extra
+2026-03-01,OP01,Romance Dawn,Blue Bottom Booster Box,5412.14,72.0,main
+2026-03-01,OP01,Romance Dawn,Booster Box,1576.38,72.0,main
+2026-03-01,OP02,Paramount War,Booster Box,487.0,72.0,main
+2026-03-01,OP03,Pillars of Strength,Booster Box,554.77,100.0,main
+2026-03-01,OP04,Kingdoms of Intrigue,Booster Box,504.58,100.0,main
+2026-03-01,OP05,Awakening of the New Era,Booster Box,938.72,100.0,main
+2026-03-01,OP06,Wings of the Captain,Booster Box,305.0,100.0,main
+2026-03-01,OP07,500 Years in the Future,Booster Box,268.07,100.0,main
+2026-03-01,OP08,Two Legends,Booster Box,212.84,100.0,main
+2026-03-01,OP09,Emperors in the New World,Booster Box,557.5,120.0,main
+2026-03-01,OP10,Royal Blood,Booster Box,220.0,120.0,main
+2026-03-01,OP11,Fist of Divine Speed,Booster Box,381.92,120.0,main
+2026-03-01,OP12,Legacy of the Master,Booster Box,223.0,120.0,main
+2026-03-01,OP13,Carrying On His Will,Booster Box,539.25,120.0,main
+2026-03-01,PRB01,Premium Booster (Card the Best),Premium Booster Display,843.99,120.0,premium
+2026-03-01,PRB02,Premium Booster 2,Booster Box,329.98,120.0,premium
+2026-04-01,EB01,Extra Booster Memorial Collection,Sealed Booster Box,688.38,70.0,extra
+2026-04-01,EB02,Extra Booster Anime 25th Collection,Booster Box,482.08,70.0,extra
+2026-04-01,EB03,Extra Booster Heroines Edition,Booster Box,317.35,70.0,extra
+2026-04-01,OP01,Romance Dawn,Blue Bottom Booster Box,5411.94,72.0,main
+2026-04-01,OP01,Romance Dawn,Booster Box,1546.91,72.0,main
+2026-04-01,OP02,Paramount War,Booster Box,490.5,72.0,main
+2026-04-01,OP03,Pillars of Strength,Booster Box,553.57,100.0,main
+2026-04-01,OP04,Kingdoms of Intrigue,Booster Box,407.18,100.0,main
+2026-04-01,OP05,Awakening of the New Era,Booster Box,953.82,100.0,main
+2026-04-01,OP06,Wings of the Captain,Booster Box,281.66,100.0,main
+2026-04-01,OP07,500 Years in the Future,Booster Box,255.55,100.0,main
+2026-04-01,OP08,Two Legends,Booster Box,190.0,100.0,main
+2026-04-01,OP09,Emperors in the New World,Booster Box,567.82,120.0,main
+2026-04-01,OP10,Royal Blood,Booster Box,223.59,120.0,main
+2026-04-01,OP11,Fist of Divine Speed,Booster Box,409.64,120.0,main
+2026-04-01,OP12,Legacy of the Master,Booster Box,234.99,120.0,main
+2026-04-01,OP13,Carrying On His Will,Booster Box,571.73,120.0,main
+2026-04-01,PRB01,Premium Booster (Card the Best),Premium Booster Display,782.83,120.0,premium
+2026-04-01,PRB02,Premium Booster 2,Booster Box,295.87,120.0,premium
